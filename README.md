@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**joser27/joser27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at the University of Washington 💜, currently working towards my Bachelor's degree.
 
-Here are some ideas to get you started:
+- 🔭 I'm currently focusing on my academic journey towards a degree in Computer Science.
+- 🌱 Actively working on landing an internship to gain real-world experience.
+- 👯 I'm open to collaboration on projects related to academia or anything interesting!
+- 💬 Ask me about anything tech-related or share your experiences in pursuing a CS degree!
+- 📫 Reach out to me on www.linkedin.com/in/joser27 for professional connections and discussions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+😄 **Pronouns:** He/Him
+
+⚡ **Fun fact:** I own my dream car, a 1987 Mercedes-Benz 190e 2.3-16! 🚗✨
+
+Let's connect, share experiences, and build something amazing together! 💻✨
