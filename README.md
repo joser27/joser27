@@ -10,6 +10,6 @@ I'm a Computer Science student at the University of Washington 💜, currently w
 
 😄 **Pronouns:** He/Him
 
-⚡ **Fun fact:** I own my dream car, a 1987 Mercedes-Benz 190e 2.3-16! 🚗✨
+⚡ **Fun fact:** Car enthusiasts! Favorite car is the Mercedes-Benz 190E Cosworth!
 
 Let's connect, share experiences, and build something amazing together! 💻✨
